@@ -1,0 +1,325 @@
+﻿  altsvc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  amigaos.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  asyn-ares.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  asyn-thread.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  base64.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  bufref.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  c-hyper.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  conncache.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  connect.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  content_encoding.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  cookie.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_addrinfo.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_ctype.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_des.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_endian.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_fnmatch.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_gethostname.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_get_line.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_gssapi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_memrchr.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+  Compilando...
+  curl_multibyte.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_ntlm_core.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_ntlm_wb.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_path.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_range.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_rtmp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_sasl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_sspi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  curl_threads.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  dict.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  doh.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  dotdot.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  dynbuf.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  easy.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  easygetopt.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  easyoptions.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  escape.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  file.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  fileinfo.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  formdata.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+  Compilando...
+  ftp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  ftplistparser.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  getenv.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  getinfo.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  gopher.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hash.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hmac.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hostasyn.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hostcheck.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hostip4.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hostip6.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hostip.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hostsyn.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  hsts.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  http2.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  http_aws_sigv4.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  http.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  http_chunks.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  http_digest.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  http_negotiate.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+  Compilando...
+  http_ntlm.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  http_proxy.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  idn_win32.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  if2ip.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  imap.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  inet_ntop.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  inet_pton.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  krb5.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  ldap.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  llist.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  md4.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  md5.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  memdebug.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  mime.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  mprintf.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  mqtt.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  multi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  netrc.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  non-ascii.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  nonblock.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+  Compilando...
+  openldap.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  parsedate.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  pingpong.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  pop3.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  progress.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  psl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  rand.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  rename.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  rtsp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  select.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  sendf.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  setopt.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  sha256.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  share.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  slist.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  smb.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  smtp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  socketpair.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  socks.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  socks_gssapi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+  Compilando...
+  socks_sspi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  speedcheck.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  splay.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  strcase.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  strdup.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  strerror.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  strtok.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  strtoofft.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  system_win32.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  telnet.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  tftp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  timeval.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  transfer.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  urlapi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  url.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  version.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  version_win32.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  warnless.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  wildcard.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  x509asn1.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+  Compilando...
+  cleartext.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  cram.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  digest.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  digest_sspi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  gsasl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  krb5_gssapi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  krb5_sspi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  ntlm.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  ntlm_sspi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  oauth2.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  spnego_gssapi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  spnego_sspi.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  vauth.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  ngtcp2.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  quiche.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  vquic.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  libssh2.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  libssh.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  wolfssh.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  bearssl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+  Compilando...
+  gskit.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  gtls.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  keylog.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  mbedtls.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  mbedtls_threadlock.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  mesalink.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  nss.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  openssl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  rustls.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  schannel.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  schannel_verify.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  sectransp.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  vtls.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  wolfssl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansión de macro que genera "defined" tiene un comportamiento indefinido
+  Generando código...
+     Creando biblioteca C:\curl-7.81.0\build\Win64\VC15\DLL Release\libcurl.lib y objeto C:\curl-7.81.0\build\Win64\VC15\DLL Release\libcurl.exp
+  libcurl.vcxproj -> C:\curl-7.81.0\build\Win64\VC15\DLL Release\libcurl.dll
